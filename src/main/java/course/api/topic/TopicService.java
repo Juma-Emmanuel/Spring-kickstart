@@ -24,4 +24,6 @@ public class TopicService {
     public void addTopic(Topic topic){
         topics.add(topic);
     }
+
+    int r = 20;
 }
